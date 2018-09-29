@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OracleCertificationAssociateTest.iml" filepath="$PROJECT_DIR$/OracleCertificationAssociateTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OracleCertificationTest.iml" filepath="$PROJECT_DIR$/OracleCertificationTest.iml" />
     </modules>
   </component>
 </project>

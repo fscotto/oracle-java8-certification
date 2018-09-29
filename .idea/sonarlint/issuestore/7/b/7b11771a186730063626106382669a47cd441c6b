@@ -1,30 +1,0 @@
-
-bsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8žÍßÍÜ,
-U
-squid:S106O"9Replace this use of System.out or System.err by a logger.(Î­•a8œ‰šÀß,
-U
-squid:S106M"9Replace this use of System.out or System.err by a logger.(ˆÝõ28àìè¿ß,
-V
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ö—Ç¹8€üÛÀß,
-bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(µÔŸÔ
-[
-squid:S106V"9Replace this use of System.out or System.err by a logger.(•¨¨ºýÿÿÿÿ8ÇøÓÀß,
-V
-squid:S106W"9Replace this use of System.out or System.err by a logger.(¤¹«8¿ÍÞÀß,
-esquid:UselessImportCheck ":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§8¢¼ÖÀß,
-Fsquid:S1481H"(Remove this unused "zdt" local variable.(¯é“¯8“šØ¿ß,
-Usquid:S1854H"7Remove this useless assignment to local variable "zdt".(¯é“¯8“šØ¿ß,
-jsquid:UselessImportCheck"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8¿ÊéŸÝ,
-nsquid:UselessImportCheck"">Remove this unused import 'java.time.temporal.TemporalAmount'.(©¡”»üÿÿÿÿ8žì Àß,
-gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ÿ„Í¨ÿÿÿÿÿ
-U
-squid:S106R"9Replace this use of System.out or System.err by a logger.(’€à8‘˜±Àß,
-_squid:UselessImportCheck&"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8¿ÊéŸÝ,
-[squid:S1854B"=Remove this useless assignment to local variable "localDate".(ïÓõ8å£Ø—ß,
-hsquid:UselessImportCheck("8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¿ÊéŸÝ,
-Lsquid:S1481B".Remove this unused "localDate" local variable.(ïÓõ8å£Ø—ß,
-ksquid:UselessImportCheck!"@Remove this unused import 'java.time.temporal.TemporalAccessor'.(Ñ‰±Ñ8€¥Àß,
-O
-squid:S1067"9Replace this use of System.out or System.err by a logger.(œ÷â
-[
-squid:S106I"9Replace this use of System.out or System.err by a logger.(ÞË¹åùÿÿÿÿ8ÁÒ¿ß,

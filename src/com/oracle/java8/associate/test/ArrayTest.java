@@ -64,7 +64,7 @@ public class ArrayTest {
         
         //String s = a6[-1]; ArrayIndexOutOfBoundsException
         
-        //Field f = new int[0].getClass().getField("length"); java.lang.NoSuchFieldException: length
+        //Field m = new int[0].getClass().getField("length"); java.lang.NoSuchFieldException: length
         
         // non funziona
         int[] a7 = unmodifieble(new int[]{1, 2, 3, 4, 5});

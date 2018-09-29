@@ -1,134 +1,0 @@
-
-O
-squid:S106:"9Replace this use of System.out or System.err by a logger.(½ÿŒÁ
-csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(öäÊ¼
-Zsquid:UnusedPrivateMethodî"/Remove this unused private "question42" method.(¶ß›´øÿÿÿÿ
-Usquid:UnusedPrivateMethod"/Remove this unused private "question47" method.(ËØé­
-Usquid:UnusedPrivateMethodè"/Remove this unused private "question39" method.(áÙòƒ
-?squid:S1172Á"(Remove this unused method parameter "x".(ÒÜå9
-Ssquid:UnusedPrivateMethod=".Remove this unused private "question3" method.(ìÂôø
-Usquid:UnusedPrivateMethod¥"/Remove this unused private "question50" method.(”™À
-Zsquid:UnusedPrivateMethod­"/Remove this unused private "question52" method.(¯ßË­øÿÿÿÿ
-U
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
-Usquid:UnusedPrivateMethod„"/Remove this unused private "question45" method.(ÂÚÇ‰
-8squid:S2129›" Remove this "String" constructor(ûÁÑ·
-Zsquid:UnusedPrivateMethod±"/Remove this unused private "question53" method.(èˆ‡»ûÿÿÿÿ
-=squid:S2129é" Remove this "String" constructor(Ë½–þÿÿÿÿ
-U
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(¿Èßâþÿÿÿÿ
-=squid:S2129ÿ" Remove this "String" constructor(åø†øÿÿÿÿÿ
-Usquid:UnusedPrivateMethod®"/Remove this unused private "question26" method.(åÊµ­
-Zsquid:UnusedPrivateMethodþ"/Remove this unused private "question43" method.(Ëù•ùúÿÿÿÿ
-csquid:S1192"FDefine a constant instead of duplicating this literal "James" 5 times.(Ùž²Íþÿÿÿÿ
-_squid:S00112½"FDefine and throw a dedicated exception instead of using a generic one.(ûÑ¥‘
-Usquid:UnusedPrivateMethod¹"/Remove this unused private "question54" method.(žŽÌá
-Xsquid:UnusedPrivateMethodG".Remove this unused private "question4" method.(ßõ§ýÿÿÿÿ
-T
-squid:S106c"9Replace this use of System.out or System.err by a logger.(êŽð»ýÿÿÿÿ
-U
-squid:S106Â"9Replace this use of System.out or System.err by a logger.(ßÄÉÇýÿÿÿÿ
-hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(°¾ùèüÿÿÿÿ
-csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(øª
-Usquid:UnusedPrivateMethodš"/Remove this unused private "question48" method.(¼ÛŸî
-P
-squid:S106£"9Replace this use of System.out or System.err by a logger.(²¨ç÷
-U
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(´‚êýÿÿÿÿ
-Hsquid:S4524±"+Move this default to the end of the switch.(Ý–Ò˜ÿÿÿÿÿ
-O
-squid:S106´"9Replace this use of System.out or System.err by a logger.(‰¡‘k
-Xsquid:UnusedPrivateMethod4".Remove this unused private "question1" method.(µþŸ›üÿÿÿÿ
-P
-squid:S106„"9Replace this use of System.out or System.err by a logger.(©Ü“
-U
-squid:S106“"9Replace this use of System.out or System.err by a logger.(ˆŠÂþÿÿÿÿ
-Usquid:S1854é"8Remove this useless assignment to local variable "str1".(Ë½–þÿÿÿÿ
-Rsquid:UnusedPrivateMethod8".Remove this unused private "question2" method.(ƒòçQ
-hsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(†€§òþÿÿÿÿ
-U
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(Þ©¿±ûÿÿÿÿ
-hsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(…þÆ»ÿÿÿÿÿ
-8squid:S2129ž" Remove this "String" constructor(²Êùœ
-U
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(µÆÚ‹ûÿÿÿÿ
-P
-squid:S106¸"9Replace this use of System.out or System.err by a logger.(‡êûâ
-Usquid:UnusedPrivateMethodÑ"/Remove this unused private "question61" method.(ÿç™à
-U
-squid:S106¾"9Replace this use of System.out or System.err by a logger.(¸³îøÿÿÿÿ
-U
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(ž˜ÉŠüÿÿÿÿ
-T
-squid:S106D"9Replace this use of System.out or System.err by a logger.(õÚÑªùÿÿÿÿ
-8squid:S2129ê" Remove this "String" constructor(ßúí“
-h
-squid:S128±"LEnd this switch case with an unconditional break, return or throw statement.(Ý–Ò˜ÿÿÿÿÿ
-Fsquid:S1481Ã")Remove this unused "obj2" local variable.(Àºž·ùÿÿÿÿ
-Rsquid:S1610é"5Convert the abstract class "Super" into an interface.(Àáþÿÿÿÿ
-Usquid:UnusedPrivateMethodË"/Remove this unused private "question28" method.(Áð‘Ø
-U
-squid:S106ª"9Replace this use of System.out or System.err by a logger.(¸«‚ýÿÿÿÿ
-Zsquid:UnusedPrivateMethodÌ"/Remove this unused private "question59" method.(Çì‡²üÿÿÿÿ
-U
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
-P
-squid:S106²"9Replace this use of System.out or System.err by a logger.(ùýÓ›
-P
-squid:S106É"9Replace this use of System.out or System.err by a logger.(°úÆ«
-ssquid:S2159‹"VRemove this call to "equals"; comparisons between unrelated types always return false.(Þ©¿±ûÿÿÿÿ
-P
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(í§¾ó
-Hsquid:S2201 "+The return value of "replace" must be used.(ßæ¨Ëýÿÿÿÿ
-U
-squid:S106«"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ
-ž%squid:RedundantThrowsDeclarationCheck½"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ûÑ¥‘
-O
-squid:S106o"9Replace this use of System.out or System.err by a logger.(³Â™Ù
-=squid:S2129^"!Remove this "Integer" constructor(‹åê÷þÿÿÿÿ
-Esquid:S1172½"(Remove this unused method parameter "x".(‹î„úÿÿÿÿ
-=squid:S2129_"!Remove this "Integer" constructor(§œ’‹þÿÿÿÿ
-U
-squid:S106ž"9Replace this use of System.out or System.err by a logger.(”ÝÖóýÿÿÿÿ
-ssquid:S2159‹"VRemove this call to "equals"; comparisons between unrelated types always return false.(Þ©¿±ûÿÿÿÿ
-Usquid:S1854ë"8Remove this useless assignment to local variable "str1".(µÆÚ‹ûÿÿÿÿ
-7squid:S2129`"!Remove this "Integer" constructor(àžÅ"
-T
-squid:S106W"9Replace this use of System.out or System.err by a logger.(Â›ç¡øÿÿÿÿ
-T
-squid:S106R"9Replace this use of System.out or System.err by a logger.(ÍúÀªÿÿÿÿÿ
-U
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(øçõÿÿÿÿÿ
-Tsquid:UnusedPrivateMethodÑ"/Remove this unused private "question33" method.(Éºß@
-h
-squid:S128µ"LEnd this switch case with an unconditional break, return or throw statement.(¡ðÿžüÿÿÿÿ
-csquid:CommentedOutCodeLineÞ"<This block of commented-out lines of code should be removed.(…¡ñª
-U
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(…¯†Îþÿÿÿÿ
-P
-squid:S106€"9Replace this use of System.out or System.err by a logger.(÷íÈ½
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾†Ý´ýÿÿÿÿ
-Qsquid:S1854h"5Remove this useless assignment to local variable "a".(½Ý¦þÿÿÿÿÿ
-U
-squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(åø†øÿÿÿÿÿ
-U
-squid:S106¾"9Replace this use of System.out or System.err by a logger.(‚—ü…øÿÿÿÿ
-c
-squid:S128³"LEnd this switch case with an unconditional break, return or throw statement.(­÷ŒŠ
-Usquid:UnusedPrivateMethodÇ"/Remove this unused private "question57" method.(ÜâÇÙ
-bsquid:S1301‘"KReplace this "switch" statement by "if" statements to increase readability.(°Âò8
-Usquid:UnusedPrivateMethodÁ"/Remove this unused private "question55" method.(¾»
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¼–§üÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckë".Extract the assignment out of this expression.(µÆÚ‹ûÿÿÿÿ
-P
-squid:S106–"9Replace this use of System.out or System.err by a logger.(ªœÝô
-csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ïÕó”
-T
-squid:S106h"9Replace this use of System.out or System.err by a logger.(½Ý¦þÿÿÿÿÿ
-Msquid:UnusedPrivateMethod½"'Remove this unused private "m1" method.(ûÑ¥‘
-O
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(¿ÅÙ•
-O
-squid:S106{"9Replace this use of System.out or System.err by a logger.(œ÷â
-Usquid:S1854Ã"8Remove this useless assignment to local variable "obj2".(Àºž·ùÿÿÿÿ

@@ -20,5 +20,13 @@ public class StringTest {
 		System.out.println(sb.capacity());
 		System.out.println(sb.toString());
 		System.out.println(s.substring(0, 4));
+
+		String s1 = "Java";
+		String[] s2 = {"J", "a", "v", "a"};
+		String s3 = "";
+		for (String elem : s2) {
+			s3 = s3 + elem;
+		}
+		System.out.println(s1 == s3);
 	}
 }

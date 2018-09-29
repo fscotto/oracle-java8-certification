@@ -6,7 +6,7 @@ class Automobile {
 	}
 }
 
-class Car extends Automobile {
+class Car extends Auto {
 	protected String drive() {
 		return "Driving car";
 	}

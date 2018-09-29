@@ -1,6 +1,8 @@
 package com.oracle.java8.associate.test;
 
 import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Supplier;
 
 public class FunctionalTest {
 
@@ -14,6 +16,15 @@ public class FunctionalTest {
 		EmployeeFactory factory = Employee::new;
 		Employee employee = factory.getEmployee("John Hammond", 25);
 		System.out.println(employee);
+
+		Function<Object, String> convert = FunctionalTest::convert;
+		String ciao = convert.apply("Ciao");
+		System.out.println(ciao);
+	}
+
+	private static String convert(Object o) {
+		Function<Object, String> f = obj -> obj.toString();
+		return f.apply(o);
 	}
 }
 

@@ -49,4 +49,12 @@ public class CollectionTest {
 		System.out.println(((TreeMap<String, String>) m).firstKey());
 		System.out.println(((TreeMap<String, String>) m).lastKey());
 	}
+
+	//public static <S, T extends S> void addAll(Collection<T> a, Collection<S> b) {}
+
+	//public static <T> void addAll(Collection<T> a, Collection<? super T> b) {}
+
+	//public static <T> void addAll(Collection<? extends T> a, Collection<T> b) {}
+
+	//public static <T> void addAll(Collection<? extends T> a, Collection<? super T> b) {}
 }

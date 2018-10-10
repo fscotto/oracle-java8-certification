@@ -7,21 +7,21 @@ import java.util.*;
 public class CollectionTest {
 
 	public static void main(String[] args) {
-		iteratorForEach();
-		usingHashSet();
-		usingMap();
+		doIteratorForEachTest();
+		doUsingHashSetTest();
+		doUsingMapTest();
 	}
 
-	private static void iteratorForEach() {
-		System.out.println("\niteratorForEach");
+	private static void doIteratorForEachTest() {
+		System.out.println("\ndoIteratorForEachTest");
 		List<String> people = Arrays.asList("Walter", "Skylar", "Jesse");
 		for (String name : people) {
 			System.out.println(name);
 		}
 	}
 
-	private static void usingHashSet() {
-		System.out.println("\nusingHashSet");
+	private static void doUsingHashSetTest() {
+		System.out.println("\ndoUsingHashSetTest");
 		Set<Impiegato> impiegati = new HashSet<>();
 		impiegati.add(new Impiegato("Mario"));
 		impiegati.add(new Impiegato("Maria"));
@@ -33,8 +33,8 @@ public class CollectionTest {
 		}
 	}
 
-	private static void usingMap() {
-		System.out.println("\nusingMap");
+	private static void doUsingMapTest() {
+		System.out.println("\ndoUsingMapTest");
 		Map<String, String> m = new HashMap<>();
 		Set<String> s = m.keySet();
 		System.out.println(s.size());

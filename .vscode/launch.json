@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsoleTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.oracle.java8.professional.io.ConsoleTest",
+            "args": "",
+            "projectName": "OracleCertificationTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IOTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.oracle.java8.professional.IOTest",
+            "args": "",
+            "projectName": "OracleCertificationTest"
+        }
+    ]
+}

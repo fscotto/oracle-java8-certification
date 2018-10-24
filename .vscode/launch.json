@@ -2,6 +2,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NIOTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.oracle.java8.professional.NIOTest",
+            "args": "",
+            "projectName": "OracleCertificationTest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ConsoleTest",
             "request": "launch",
             "cwd": "${workspaceFolder}",

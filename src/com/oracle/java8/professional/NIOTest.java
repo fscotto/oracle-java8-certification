@@ -2,20 +2,8 @@ package com.oracle.java8.professional;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.file.DirectoryStream;
-import java.nio.file.FileSystem;
-import java.nio.file.FileSystems;
-import java.nio.file.FileVisitOption;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.PathMatcher;
-import java.nio.file.Paths;
-import java.nio.file.attribute.BasicFileAttributeView;
-import java.nio.file.attribute.BasicFileAttributes;
-import java.nio.file.attribute.FileTime;
-import java.nio.file.attribute.PosixFileAttributes;
-import java.nio.file.attribute.PosixFilePermission;
-import java.nio.file.attribute.PosixFilePermissions;
+import java.nio.file.*;
+import java.nio.file.attribute.*;
 import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -94,10 +82,11 @@ public class NIOTest {
         }
 
         Path path = Paths.get("file.txt");
-        Stream<Path> stream = Files.walk(Paths.get("/home/plague/exercism"), FileVisitOption.FOLLOW_LINKS);
-        PrintWriter pw = new PrintWriter(path.toFile());
-        for (Path p : stream.collect(Collectors.toList())) {
-            pw.println(p.toString());
+        try (Stream<Path> stream = Files.walk(Paths.get("/home/plague/exercism"), FileVisitOption.FOLLOW_LINKS);
+            PrintWriter pw = new PrintWriter(path.toFile())) {
+            for (Path p : stream.collect(Collectors.toList())) {
+                pw.println(p.toString());
+            }
         }
     }
 
